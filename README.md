@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=ParkWonjeong&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=venom)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=ParkWonejong&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=venom)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkWonjeong&show_icons=true&theme=catppuccin_mocha)
 <!--
