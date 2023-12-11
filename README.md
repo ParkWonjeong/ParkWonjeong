@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Wonjeong's%20GitHub%20🐺&animation=twinkling&fontColor=808080&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Wonjeong's%20GitHub%20🧙🏼‍♂️&animation=twinkling&fontColor=808080&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 ---
 ---
 ## 🧑🏽‍💻 Once I've used 🧑🏽‍💻
