@@ -2,8 +2,6 @@
 ---
 ---
 
----
-
 ![ParkWonjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkWonjeong&include_all_commits=true&show_icons=true&theme=nord)
 
 <!--
