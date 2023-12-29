@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Wonjeong's%20GitHub%20🧙🏼‍♂️&animation=twinkling&fontColor=808080&fontSize=45&fontAlignY=50&fontAlign=50&height=180)
+[header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Wonjeong's%20GitHub%20🧙🏼‍♂️&animation=twinkling&fontColor=808080&fontSize=45&fontAlignY=50&fontAlign=50&height=180)
 ---
 ---
 
-![ParkWonjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkWonjeong&include_all_commits=true&show_icons=true&theme=nord)
+[ParkWonjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkWonjeong&include_all_commits=true&show_icons=true&theme=nord)
 
 <!--
 **ParkWonjeong/ParkWonjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
