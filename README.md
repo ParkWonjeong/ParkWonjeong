@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Wonjeong Park</h1>
 <h3 align="center">Backend & ML Student from South Korea</h3>
+
 ---
+
 - 🌱 I’m currently learning **Spring & Deep Learning**
 
 - 📝 I regularly write articles on [https://velog.io/@park_wonjeong](https://velog.io/@park_wonjeong)
 
 - 📫 How to reach me **josephwjp8@gmail.com**
+  
 ---
 
 <h3 align="left">Connect with me:</h3>
