@@ -1,6 +1,6 @@
 <div align="left">
   
-  ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=2193b0&text=Park%20Wonjeong!&reversal=false&fontColor=FFA500&textBg=false&fontAlign=50&animation=scaleIn)
+  ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=2193b0&text=Park%20Wonjeong&reversal=false&fontColor=FFA500&textBg=false&fontAlign=50&animation=scaleIn)
 ---
 ---
   <!--
