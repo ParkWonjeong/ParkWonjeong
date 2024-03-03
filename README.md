@@ -8,6 +8,13 @@
 - 📝 I regularly write articles on [https://velog.io/@park_wonjeong](https://velog.io/@park_wonjeong)
 
 - 📫 How to reach me **josephwjp8@gmail.com**
+
+- 📜 Experiences
+  - 2022 빅콘테스트 이노베이션 부문 	과학기술정보통신부장관상
+  - GDSC HUFS Member 2022-23
+  - GDSC HUFS Core Member 2023-24
+  - Naver BoostClass 'AI 엔지니어 기초 다지기' 수료
+  - Elice Java. Cloud Track Racer 2023
   
 ---
 
