@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wonjeong (Joseph) Park</h1>
-<h3 align="center">Backend & ML Student from South Korea</h3>
+<h3 align="center">Backend & ML(DL) Student from South Korea</h3>
 
 ---
 
