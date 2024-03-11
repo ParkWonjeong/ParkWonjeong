@@ -10,12 +10,14 @@
 - 📫 How to reach me **josephwjp8@gmail.com**
 
 - 📜 Experiences
-  - QMS HUFS Member 2022 - 23
-  - 2022 빅콘테스트 이노베이션 부문 	과학기술정보통신부장관상
+  - QMS HUFS Member 2022
+  - 2022 빅콘테스트 이노베이션 부문 대상(과학기술정보통신부장관상)
+  - QMS HUFS Lead Member 2023 (Data Analysis)
+  - 마케팅 사이언스 입문(R 데이터 분석) TA 조교 2023
   - GDSC HUFS Member 2022-23
   - GDSC HUFS Core Member 2023-24
   - Naver BoostClass 'AI 엔지니어 기초 다지기'
-  - Elice Java. Cloud Track Racer 2023
+  - Elice Java, Cloud Track Racer 2023
   
 ---
 
