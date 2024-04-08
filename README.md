@@ -1,9 +1,9 @@
-<h1 align="center">Hi! 👋, I'm Wonjeong Park</h1>
+<h1 align="center">Hi! 👋, I'm Joseph Wonjeong Park</h1>
 <h3 align="center">Backend & ML(DL) Student from South Korea</h3>
 
 ---
 
-- 🌱 I’m currently learning **Spring & Deep Learning**
+- 🌱 I’m currently learning **Spring & Machine Learning**
 
 - 📝 I regularly write articles on [https://velog.io/@park_wonjeong](https://velog.io/@park_wonjeong)
 
