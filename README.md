@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring & Machine Learning**
 
-- 📝 I regularly write articles on [https://velog.io/@park_wonjeong](https://velog.io/@park_wonjeong)
+- 📝 I regularly write articles on [velog](https://velog.io/@park_wonjeong), [Tistory](https://wonjng.tistory.com/category/BackEnd)
 
 - 📫 How to reach me **josephwjp8@gmail.com**
 
