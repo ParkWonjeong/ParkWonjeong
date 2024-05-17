@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **josephwjp8@gmail.com**
 
+- 🎓 Education
+  - Hankuk University of Foreign Studies (Seoul, Korea) - Major in English Literature and Culture / AI(Software track)
+
 - 📜 Experiences
   - QMS HUFS Member 2022
   - 2022 빅콘테스트 이노베이션 부문 대상(과학기술정보통신부장관상)
@@ -16,7 +19,7 @@
   - 마케팅 사이언스 입문(R 데이터 분석) TA 조교 2023
   - GDSC HUFS Member 2022-23
   - GDSC HUFS Core Member 2023-24
-  - Naver BoostClass 'AI 엔지니어 기초 다지기'
+  - Naver BoostClass 'AI 엔지니어 기초 다지기' 수료
   - Elice Java, Cloud Track Racer 2023
   
 ---
