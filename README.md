@@ -10,7 +10,7 @@
 - 📫 How to reach me **josephwjp8@gmail.com**
 
 - 🎓 Education
-  - Hankuk University of Foreign Studies (Seoul, Korea) - Major in English Literature and Culture / AI(Software track)
+  - Hankuk University of Foreign Studies (Seoul, Korea) - Major in English Literature and Culture / AI (Software & AI track)
 
 - 📜 Experiences
   - QMS HUFS Member 2022
