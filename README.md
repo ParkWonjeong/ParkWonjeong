@@ -1,11 +1,11 @@
 <h1 align="center">Hi! 👋, I'm Joseph Wonjeong Park</h1>
-<h3 align="center">Backend & ML(DL) Student from South Korea</h3>
+<h3 align="center">South Korea Student learning ML & Backend</h3>
 
 ---
 
 - 🌱 I’m currently learning **Spring & Machine Learning**
 
-- 📝 I regularly write articles on [velog](https://velog.io/@park_wonjeong), [Tistory](https://wonjng.tistory.com/category/BackEnd)
+- 📝 I regularly write articles on [Tistory](https://wonjng.tistory.com/category/BackEnd)
 
 - 📫 How to reach me **josephwjp8@gmail.com**
 
@@ -16,10 +16,9 @@
   - QMS HUFS Member 2022
   - 2022 빅콘테스트 이노베이션 부문 대상(과학기술정보통신부장관상)
   - QMS HUFS Lead Member 2023 (Data Analysis)
-  - 마케팅 사이언스 입문(R 데이터 분석) TA 조교 2023
+  - 한국외국어대학교 마케팅 사이언스 입문(R 데이터 분석) TA 조교 2023
   - GDSC HUFS Member 2022-23
   - GDSC HUFS Core Member 2023-24
-  - Naver BoostClass 'AI 엔지니어 기초 다지기' 수료
   - Elice Java, Cloud Track Racer 2023
   
 ---
