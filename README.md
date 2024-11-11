@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring & Machine Learning**
 
-- 📝 I regularly write articles on [Tistory](https://wonjng.tistory.com/category/BackEnd)
+- 📝 I regularly write articles on [Tistory](https://wonjng.tistory.com)
 
 - 📫 How to reach me **josephwjp8@gmail.com**
 
