@@ -11,6 +11,7 @@
 
 - 🎓 Education
   - Hankuk University of Foreign Studies (Seoul, Korea) - Major in English Literature and Culture / AI (Software & AI track)
+  - UC Berkeley(Berkeley, CA) - Computer Science Major (International Student 2025 Spring)
 
 - 📜 Experiences
   - QMS HUFS Member 2022
