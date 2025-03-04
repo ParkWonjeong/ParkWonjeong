@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wonjeong-park-a75b5a29b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wonjeong park" height="24" width="32" /></a>
+<a href="https://linkedin.com/in/wonjeongpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wonjeong park" height="24" width="32" /></a>
 <a href="https://kaggle.com/wonjeongpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wonjeong park" height="24" width="32" /></a>
 <a href="https://instagram.com/park_wonjeong0213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="park_wonjeong0213" height="24" width="32" /></a>
 </p>
