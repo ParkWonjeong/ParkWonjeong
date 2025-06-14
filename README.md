@@ -1,9 +1,9 @@
 <h1 align="center">Hi! 👋, I'm Joseph Wonjeong Park</h1>
-<h3 align="center">ML student from South Korea / USA</h3>
+<h3 align="center">BE & ML student from South Korea / USA</h3>
 
 ---
 
-- 🌱 I’m currently studying **Machine Learning(RL, DL)**
+- 🌱 I’m currently studying **Backend & Machine Learning(RL, DL)**
 
 - 📝 I regularly write articles on [Tistory](https://wonjng.tistory.com)
 
