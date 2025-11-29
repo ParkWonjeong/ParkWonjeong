@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/josephwjp/josephwjp/main/profile-header.svg" alt="Hi, I'm Joseph Wonjeong Park" width="100%"/>
-</div>
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParkWonjeong&show_icons=true&theme=dark&line_height=27" 
+       alt="Joseph's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkWonjeong&layout=compact&theme=dark&line_height=27" 
+       alt="Joseph's Top Languages" width="48%" />
+</p>
 
 <h1 align="center">👋 Joseph Wonjeong Park</h1>
 <h3 align="center">AI Student & Aspiring Data Scientist from South Korea / USA</h3>
