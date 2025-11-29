@@ -2,6 +2,7 @@
 <h3 align="center"> AI student from South Korea / USA</h3>
 
 ---
+- 🚀 Visit my Portfolio Website! [Portfolio](https://josephwonjeongpark.vercel.app/)
 
 - 🌱 I’m currently studying **AI (DeepLearning)**
 
